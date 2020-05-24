@@ -1,7 +1,5 @@
 Souce code for Multimodal Feature Attention for Cervical Lymph Node Segmentation in Ultrasound and Doppler Images.
 
-
-
 Several test samples are shown below:
 
-![sample](.\imgs\sample.png)
+![sample](./imgs/sample.png)
